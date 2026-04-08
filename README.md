@@ -1,4 +1,5 @@
-DataZaurs
+## DataZaurs
+1. [Artem Krasouski](https://github.com/arkrasouski)
+2. [Alex Marchenko](https://github.com/kidnation-pd)
 
-1. Artem Krasouski
-2. Alex Marchenko
+![ДатаЗавры](image.png)
